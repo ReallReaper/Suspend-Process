@@ -1,0 +1,8 @@
+C:\Users\hamster\Desktop\Suspend Process v2\Suspend Process v2\bin\Debug\Suspend Process v2.exe.config
+C:\Users\hamster\Desktop\Suspend Process v2\Suspend Process v2\bin\Debug\Suspend Process v2.exe
+C:\Users\hamster\Desktop\Suspend Process v2\Suspend Process v2\bin\Debug\Suspend Process v2.pdb
+C:\Users\hamster\Desktop\Suspend Process v2\Suspend Process v2\obj\Debug\Suspend Process v2.csproj.AssemblyReference.cache
+C:\Users\hamster\Desktop\Suspend Process v2\Suspend Process v2\obj\Debug\Suspend Process v2.csproj.SuggestedBindingRedirects.cache
+C:\Users\hamster\Desktop\Suspend Process v2\Suspend Process v2\obj\Debug\Suspend Process v2.csproj.CoreCompileInputs.cache
+C:\Users\hamster\Desktop\Suspend Process v2\Suspend Process v2\obj\Debug\Suspend Process v2.exe
+C:\Users\hamster\Desktop\Suspend Process v2\Suspend Process v2\obj\Debug\Suspend Process v2.pdb
